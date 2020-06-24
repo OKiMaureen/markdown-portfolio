@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+### Favourite things.
+* Baking
+  * cake
+  * cookies
+* Reading novels
+  * sci-fi
+  * adventures
+* Travelling
