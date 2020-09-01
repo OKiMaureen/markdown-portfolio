@@ -2,4 +2,4 @@
 Maureen oki
 
 
-![](./Failed CI checks.png)
+![](../Failed CI checks.png)
